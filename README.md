@@ -6,7 +6,7 @@ This repository contains the code and analysis for a car insurance pricing proje
 - Dummy Encoding
 - Target Encoding
 - Entity Embedding
-- 
+
 > 🔧 **This project is derived from my master’s thesis.**
 
 ## Documentation
@@ -41,6 +41,7 @@ We evaluated the following modeling approaches:
 - **Generalized Linear Models (GLM)**  
 - **Tweedie Regression**  
 - **XGBoost**
+
 Each model was tested with all three encoding strategies.
   
 ## Evaluation Metrics
