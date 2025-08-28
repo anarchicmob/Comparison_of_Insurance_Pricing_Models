@@ -11,7 +11,7 @@ This repository contains the code and analysis for a car insurance pricing proje
 
 ## Documentation
 Full documentation is hosted on **Notion**:  
-👉 [Notion Project Page](https://persistent-valley-d67.notion.site/Insurance-Pricing-Models-Documentation-Analysis-25b92083189180678bbcd407dab86ce8?source=copy_link)
+👉 [Insurance Pricing Models — Documentation & Analysis](https://persistent-valley-d67.notion.site/Insurance-Pricing-Models-Documentation-Analysis-25b92083189180678bbcd407dab86ce8?source=copy_link)
 
 ## Evaluation Metrics
 - RMSE (Root Mean Squared Error)
