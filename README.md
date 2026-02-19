@@ -7,7 +7,7 @@ The project compares multiple modeling techniques and encoding strategies for ha
 - Target Encoding
 - Entity Embedding
 
->  **This project is derived from my master’s thesis.**
+>  **This project is derived from my thesis.**
 
 ## Documentation
 Full documentation is hosted on **Notion**:  
