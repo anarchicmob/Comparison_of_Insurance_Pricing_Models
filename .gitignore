@@ -1,0 +1,16 @@
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Generated data and outputs
+data/
+results/
+*.rds
+*.RDS
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
